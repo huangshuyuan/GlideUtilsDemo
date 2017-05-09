@@ -11,6 +11,10 @@
  * （8）圆角显示图片  ImageView
  * （9）多种样式（模糊+圆角）
  * （10）矩形圆角 ImageView
+ 
+ 
+ # 参考资料
+ [Glide源码](https://github.com/bumptech/glide)
 
 ![](http://upload-images.jianshu.io/upload_images/3805053-fb3aebf897f5740e.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
